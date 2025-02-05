@@ -1,6 +1,6 @@
 # Simulação de Semáforo com Temporizador Periódico
-Yasmin Damasceno Cruz - TIC370101610
-Unidade 4 - Capítulo 5
+### Yasmin Damasceno Cruz - TIC370101610
+### Unidade 4 - Capítulo 5
 
 Este projeto implementa a simulação de LEDs utilizando um temporizador de 3 segundos e a interação com um botão (pushbutton). Quando o botão é pressionado, os LEDs são acesos, e a cada 3 segundos, um LED é desligado, até que apenas um LED permaneça aceso. O temporizador é gerenciado por funções de callback e utiliza a função `add_alarm_in_ms()` do Pico SDK.
 
